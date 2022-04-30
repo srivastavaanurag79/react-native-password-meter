@@ -1,4 +1,4 @@
-# React Native Password Meter 🔽
+# React Native Password Meter 🔐
 
 [![Version](https://img.shields.io/npm/v/react-native-password-meter.svg)](https://www.npmjs.com/package/react-native-password-meter)
 [![Dependency Status](https://img.shields.io/npm/dt/react-native-password-meter.svg)](https://www.npmjs.com/package/react-native-password-meter)
