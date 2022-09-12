@@ -17,6 +17,8 @@
 **Give us a GitHub star 🌟, if you found this package useful.**
 [![GitHub stars](https://img.shields.io/github/stars/srivastavaanurag79/react-native-password-meter.svg?style=social&label=Star&maxAge=2592000)](https://github.com/srivastavaanurag79/react-native-password-meter)
 
+Enjoying react-native-password-meter? [Please leave a short review on Openbase](https://openbase.com/js/react-native-password-meter#rate)
+
 [React Native Password Meter (NPM Link)](https://www.npmjs.com/package/react-native-password-meter)
 
 ## Would you like to support me?
