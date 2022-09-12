@@ -6,6 +6,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srivastavaanurag79/react-native-password-meter)
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![Rate this package](https://badges.openbase.com/js/rating/react-native-password-meter.svg?style=openbase&token=ph8zir0RcYKMvoutVcy1gvTmnVPxJifO7QXk/g6eVl4=)](https://openbase.com/js/react-native-password-meter?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 
 - Password Strength Meter for your passwords with suggestions in **React Native**.
 - The package is both **Android** and **iOS** compatible.
